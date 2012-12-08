@@ -52,3 +52,7 @@ if (e.keyCode === Key.TAB)
 if (e.which === Key.CAPS_LOCK)
   // Do something else that's awesome
 ````
+
+## Under Active Development
+
+The plan is to add some static methods to this library that make handling different keyboard events easier. Keep an eye on it if you're interested. Feel free to give me suggestions as well. Thanks for looking :)
