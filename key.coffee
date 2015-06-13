@@ -20,6 +20,7 @@ class Key
   @DOWN_ARROW: 40
   @INSERT: 45
   @DELETE: 46
+  @SPACE: 32
   @_0: 48
   @_1: 49
   @_2: 50
